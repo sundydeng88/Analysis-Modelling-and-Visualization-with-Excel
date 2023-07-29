@@ -1,3 +1,5 @@
 # Analysis-Modelling-and-Visualization-with-Excel
 
-## Some small projects using Excel
+## Im posting any Excel projects I do within data analytics here
+
+
